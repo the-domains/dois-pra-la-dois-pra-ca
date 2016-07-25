@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Dois Pra La, Dois Pra Ca]]></title>
+        <description><![CDATA[Dois Pra La, Dois Pra Ca]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 25 Jul 2016 08:30:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Night]]></title>
+            <description><![CDATA[<article><h1>Night</h1><p>The enemy of art is the absence of limitation. Orson Wells</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f394b851-bac9-4167-8be6-87fe67115214.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f4c879c-a366-4242-933c-8afcc29d41d2.jpg</link>
+            <guid isPermaLink="false">6af9f308-d7da-4442-94a8-b43130f939e7</guid>
+            <pubDate>Mon, 25 Jul 2016 08:29:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
